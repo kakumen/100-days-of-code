@@ -5,4 +5,4 @@
 
 **Today's Progress**: Learned and built Database schema for the site.
 
-**Thoughts:** Still need to understand how to fill in the database records through the site using PHP
+**Thoughts:** Still need to understand how to properly fill in the database records through the site using PHP (namely the Foreign Keys from Intermediate tables)
