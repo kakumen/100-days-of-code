@@ -14,3 +14,6 @@
 
 **Thoughts:** Still need to understand better $conn->insert_id (and if it was deprecated)
               Need to better understand prepared statements in PHP and why login system is not fully functional
+              
+### Day 3: March 23, 2020
+**Today's Progress**: Not much progress, still struggling and try to properly understand PHP Prepared statements... I think I find a good blog explaining it, will have a deeper look tomorrow
