@@ -17,3 +17,8 @@
               
 ### Day 3: March 23, 2020
 **Today's Progress**: Not much progress, still struggling and try to properly understand PHP Prepared statements... I think I find a good blog explaining it, will have a deeper look tomorrow
+
+### March 24, 2020 - Skipped this day, was too tired
+
+### Day 4: March 25, 2020
+**Today's Progress**: Continued to do the Login system for my website. Getting a better grasp of Prepared Statements in PHP, security against SQL injection and hashing/dehashing passords. But still not fully understanding how it all works...
