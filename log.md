@@ -22,3 +22,6 @@
 
 ### Day 4: March 25, 2020
 **Today's Progress**: Continued to do the Login system for my website. Getting a better grasp of Prepared Statements in PHP, security against SQL injection and hashing/dehashing passords. But still not fully understanding how it all works...
+### Day 5-8: March 26-28, 2020
+**Today's Progress** Learning PDO with the great video from @traversymedia and realized I still have many gaps in PHP OOP, so decided to take a break from actual coding and go back to tutorials for a short time, to study this more into detail
+**Thoughts:** Objective is to completely understand PHP OOP and complete, together with the PDO, the log in system
