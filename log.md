@@ -27,7 +27,7 @@
 **Thoughts:** Objective is to completely understand PHP OOP and complete, together with the PDO, the log in system
 
 ### Day 9: March 29, 2020
-**Today's Progress**: Continued learning PHP OOP with mmtuts youtube channel- inheritance, constructors/destructors, scope, MVC Model
+**Today's Progress**: Continued learning PHP OOP with mmtuts youtube channel-MVC Model, inheritance, constructors/destructors, scope, autoloader
 **Thoughts:** static methods are access with :: and cannot be accessed if class is instantiated
               still not completly understand how to use MVC Model
 
