@@ -25,3 +25,9 @@
 ### Day 5-8: March 26-28, 2020
 **Today's Progress** Learning PDO with the great video from @traversymedia and realized I still have many gaps in PHP OOP, so decided to take a break from actual coding and go back to tutorials for a short time, to study this more into detail
 **Thoughts:** Objective is to completely understand PHP OOP and complete, together with the PDO, the log in system
+
+### Day 9: March 29, 2020
+**Today's Progress**: Continued learning PHP OOP with mmtuts youtube channel- inheritance, constructors/destructors, scope, MVC Model
+**Thoughts:** static methods are access with :: and cannot be accessed if class is instantiated
+              still not completly understand how to use MVC Model
+
