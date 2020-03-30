@@ -31,3 +31,8 @@
 **Thoughts:** static methods are access with :: and cannot be accessed if class is instantiated
               still not completly understand how to use MVC Model
 
+
+### Day 10: March 30, 2020
+**Today's Progress**: Still on PHP OOP - built a simple calculator but took me a long time to understand that each file with a class should have the name of that class. Then the autoloader $classname should have also the name of the class file.
+Also learned const an static methods
+**Thoughts:** autoloader $classname must have the name of the class as it is in the file
