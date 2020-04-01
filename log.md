@@ -36,3 +36,7 @@
 **Today's Progress**: Still on PHP OOP - built a simple calculator but took me a long time to understand that each file with a class should have the name of that class. Then the autoloader $classname should have also the name of the class file.
 Also learned const an static methods
 **Thoughts:** autoloader $classname must have the name of the class as it is in the file
+
+### Day 11-12: March 31, April 1st 2020
+**Today's Progress**: Tried to do myself a small program to fetch data from a database using PHP PDO and OOP - some success but spend much time struggling to find bugs
+**Thoughts:** try again tomorrow to repeat the script
