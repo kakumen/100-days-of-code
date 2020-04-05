@@ -40,3 +40,6 @@ Also learned const an static methods
 ### Day 11-12: March 31, April 1st 2020
 **Today's Progress**: Tried to do myself a small program to fetch data from a database using PHP PDO and OOP - some success but spend much time struggling to find bugs
 **Thoughts:** try again tomorrow to repeat the script
+### Day 13-16: April 2nd, April 5th 2020
+**Today's Progress**: Continue with PDO and OOP. Almost done with a proper sing/uplog in system. Repeated many times the same code
+**Thoughts:** Need still to understand why I am getting soem errors and login not yet working. Need also to work more on hash/dehash passwords  
