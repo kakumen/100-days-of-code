@@ -43,3 +43,6 @@ Also learned const an static methods
 ### Day 13-16: April 2nd, April 5th 2020
 **Today's Progress**: Continue with PDO and OOP. Almost done with a proper sing/uplog in system. Repeated many times the same code
 **Thoughts:** Need still to understand why I am getting soem errors and login not yet working. Need also to work more on hash/dehash passwords  
+### Day 17-18: April 6th and 7th 2020
+**Today's Progress**: Finalized login system. Reviewed some basics of PHP
+**Thoughts:** Need to hash password and convert login system to Modals
