@@ -46,3 +46,8 @@ Also learned const an static methods
 ### Day 17-18: April 6th and 7th 2020
 **Today's Progress**: Finalized login system. Reviewed some basics of PHP
 **Thoughts:** Need to hash password and convert login system to Modals
+
+-------------------------------------------------2nd Try--------------------------------------------
+### Day 1: April 21st 2020
+**Today's Progress**: Delved into PHP SESSIONS and progressed in the JavaScript curriculum from FreecodeCamp 
+**Thoughts:** Revison from previous Javascript lessons, need to use what I've learned from $_SESSION to update the site 
