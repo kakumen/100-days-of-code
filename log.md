@@ -48,6 +48,10 @@ Also learned const an static methods
 **Thoughts:** Need to hash password and convert login system to Modals
 
 -------------------------------------------------2nd Try--------------------------------------------
-### Day 1: April 21st 2020
+### Day 1: June 21st 2020
 **Today's Progress**: Delved into PHP SESSIONS and progressed in the JavaScript curriculum from FreecodeCamp 
 **Thoughts:** Revison from previous Javascript lessons, need to use what I've learned from $_SESSION to update the site 
+
+### Day 2: June 22nd 2020
+**Today's Progress**: Continued Javascript curriculum in Freecodecamp, to cement the basics
+**Thoughts:** Did the program until and including the card count project 
