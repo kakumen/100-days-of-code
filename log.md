@@ -55,3 +55,8 @@ Also learned const an static methods
 ### Day 2: June 22nd 2020
 **Today's Progress**: Continued Javascript curriculum in Freecodecamp, to cement the basics
 **Thoughts:** Did the program until and including the card count project 
+
+
+### Day 3: June 23rd 2020
+**Today's Progress**: Not a very productive day but continued to push on Javascript curriculum in Freecodecamp. Started to look at JSON
+**Thoughts:** Stuck on Object exercise - need to understand better how to navigate through the objects
