@@ -60,3 +60,7 @@ Also learned const an static methods
 ### Day 3: June 23rd 2020
 **Today's Progress**: Not a very productive day but continued to push on Javascript curriculum in Freecodecamp. Started to look at JSON
 **Thoughts:** Stuck on Object exercise - need to understand better how to navigate through the objects
+
+### Day 3: June 24th 2020
+**Today's Progress**: Continued Javascript and tried to add a Promotion checkbox in website
+**Thoughts:** Promotion checkbox not yet fully functional
